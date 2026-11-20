@@ -1,2 +1,2 @@
-d = 3: 50 label sets, 0 neither in a proper face nor an affine cut set
-d = 4: 736 label sets, 0 neither in a proper face nor an affine cut set
+d = 3: 50 label sets, 50 in a proper face, 0 affine cut sets with an exact certificate, 0 neither
+d = 4: 736 label sets, 720 in a proper face, 16 affine cut sets with an exact certificate, 0 neither

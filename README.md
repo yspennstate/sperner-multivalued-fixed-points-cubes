@@ -15,6 +15,6 @@ on that facet. Kakutani's interpolation argument, with Sperner's lemma in place 
 Kakutani's theorem and a fixed point theorem of Bich for maps that need not be upper semicontinuous.
 
 `main.tex` and `main.pdf` are the paper; `Sperner.png` and `crosssectioncube.png` are its two figures.
-`code/fan_facets.py` checks the facets of Fan labelings for d = 3, 4 (numpy and scipy), and
+`code/fan_facets.py` checks the facets of Fan labelings for d = 3, 4, each separating hyperplane verified in exact arithmetic (numpy and scipy), and
 `code/central_cube3.py` checks in exact arithmetic that a 3-cube whose labels miss a corner and which has no
 problematic facet is not centrally labeled (numpy). Their outputs are in `code/*_output.txt`.
