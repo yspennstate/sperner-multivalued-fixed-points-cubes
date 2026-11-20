@@ -1,0 +1,2 @@
+d = 3: 50 label sets, 0 neither in a proper face nor an affine cut set
+d = 4: 736 label sets, 0 neither in a proper face nor an affine cut set
